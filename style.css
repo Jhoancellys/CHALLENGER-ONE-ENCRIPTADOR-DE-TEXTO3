@@ -20,10 +20,10 @@ main{
 }
 
 .text-area{
-    height: 1200px;
+    height: 300px;
     border: none;
     color: #0A3871;
-    margin-top: 30px;
+    margin-top: 20px;
     padding: 2px;
     text-transform: lowercase;
 }
